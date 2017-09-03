@@ -1,0 +1,7 @@
+*.pyc
+
+
+# Virtual environment
+venv-freshdjangoproject/
+.venv
+
